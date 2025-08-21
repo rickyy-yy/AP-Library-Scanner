@@ -5,7 +5,7 @@ import os
 import csv
 
 # Constants
-STARTING_NUMBER = 427
+STARTING_NUMBER = 422
 LAST_NUMBER = 3782
 DESCRIPTION_FOLDER = r"C:\Users\ASUS\Documents\Python\APLibrary_Scraper\Description"
 KEYWORD_FILE = r"C:\Users\ASUS\Documents\Python\APLibrary_Scraper\keywords.txt"
