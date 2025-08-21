@@ -7,9 +7,10 @@ import csv
 # Constants
 STARTING_NUMBER = 422
 LAST_NUMBER = 3782
-DESCRIPTION_FOLDER = r"C:\Users\ASUS\Documents\Python\APLibrary_Scraper\Description"
-KEYWORD_FILE = r"C:\Users\ASUS\Documents\Python\APLibrary_Scraper\keywords.txt"
-CSV_FILE = r"C:\Users\ASUS\Documents\Python\APLibrary_Scraper\results.csv"
+BASE_PATH = os.getcwd()
+DESCRIPTION_FOLDER = BASE_PATH + r"\Description"
+KEYWORD_FILE = BASE_PATH + r"\keywords.txt"
+CSV_FILE = BASE_PATH + r"\results.csv"
 CSV_HEADERS = ["No.", "Link", "Upload Date", "Title", "Author", "Supervisor", "Pages", "Publish Date", "Subject", "Keywords"]
 
 # Global variables
