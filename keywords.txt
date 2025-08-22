@@ -1,11 +1,12 @@
 cybersecurity
 cyber security
-security
+cybersafety
+cyber safety
 blockchain
-cyber
-safety
-defense
 penetration
+pentest
+pen test
+pen-test
 antivirus
 anti-virus
 antimalware
@@ -17,9 +18,6 @@ virus
 spyware
 trojan
 rootkit
-protect
-defend
-protection
 botnet
 worms
 zero day
@@ -33,3 +31,14 @@ zero-trust
 osint
 bios
 crime
+vishing
+smishing
+whaling
+endpoint
+security
+defense
+protect
+defend
+protection
+cyber
+safety
