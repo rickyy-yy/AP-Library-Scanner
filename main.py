@@ -80,7 +80,7 @@ def write_to_csv(cleaned_data, url):  # Writes the details of matching result to
                          cleaned_data[16]]
     else:
         data_to_write = [file_count, url, cleaned_data[1], cleaned_data[3], cleaned_data[4], cleaned_data[5],
-                         cleaned_data[8], cleaned_data[19], cleaned_data[14],
+                         cleaned_data[8], cleaned_data[9], cleaned_data[14],
                          cleaned_data[15]]
     with open(CSV_FILE, 'a', newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
